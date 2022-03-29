@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @umittas2000
 - 👀 I’m interested in web applications and databases
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on database works
+- 🌱 currently learning Java
+- 💞️ looking to collaborate on database works
 - 📫 you can reach me by mail : umittas2000@gmail.com
 
 <!---
