@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [https://www.medium.com/@umittas2000](https://www.medium.com/@umittas2000)
 
-- 💬 Ask me about **Amazon Web Services**
+- 💬 Ask me about **Amazon Web Services** or **Java**
 
 - 📫 How to reach me **umittas2000@gmail.com**
 
